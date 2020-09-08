@@ -4,9 +4,5 @@ dependencies:
   - appmode
   - numpy
   - pandas
-  - matplotlib.pyplot
   - seaborn
   - ipywidgets
-  - string
-  - sklearn.feature_extraction.text
-  - sklearn.metrics.pairwise

@@ -7,4 +7,4 @@ dependencies:
   - seaborn
   - ipywidgets
   - matplotlib
-  - sklearn
+  - scikit-learn
